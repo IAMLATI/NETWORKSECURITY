@@ -21,3 +21,7 @@ git commit -m " first commit"
 git brnch -M main
 git remote add origin git@github.com:IAMLATI/NETWORKSECURITY.git
 git push -u origin main
+
+setup the setup.py file
+
+move to logging-logger.py
