@@ -24,7 +24,7 @@ def write_yaml_file(file_path:str, content:object, replace:bool=False)-> None:
         raise NetworkSecurityException(e,sys)
     
 
-def save_numpy_array(file_path:str, array:np.array):
+def save_numpy_array_data(file_path:str, array:np.array):
     """Save numpy array data to file
     file_path:srlocation of file to save
      array: np.array data to save """

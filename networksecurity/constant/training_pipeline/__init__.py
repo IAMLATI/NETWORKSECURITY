@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 """Defining common constant variable for training pipeline"""
-TARGET_COMMON="Result"
+TARGET_COLUMN="Result"
 PIPELINE_NAME: str= "NetworkSecurity"
 ARTIFACT_DIR: str="Artifacts"
 FILE_NAME: str= "PhisingData.csv"
@@ -27,6 +27,7 @@ DATA_VALIDATION_VALID_DIR: str= "validated"
 DATA_VALIDATION_INVALID_DIR:str="invalid"
 DATA_VALIDATION_DRIFT_REPORT_DIR:str="drift_report"
 DATA_VALIDATION_DRIFT_REPORT_FILE_NAME:str="report.yaml"
+PREPROCESSING_OBJECT_FILE_NAME:str="preprocessing.pkl"
 
 """ Data Transformation related constant start with DATA_TRANSFORMATION VAR NAME """
 #KKN IMPUTER TO REPLACE NAN VALUES

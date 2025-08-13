@@ -17,6 +17,6 @@ class DataValidationArtifact:
 
 @dataclass
 class DataTransformationArtifact:
-    transform_object_file_path:str
-    transform_train_file_path:str
-    transform_test_file_path:str
+    transformed_object_file_path:str
+    transformed_train_file_path:str
+    transformed_test_file_path:str
