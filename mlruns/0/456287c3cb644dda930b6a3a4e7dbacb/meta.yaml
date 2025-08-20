@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/Desktop/ENDTOEND/ML_NETWORKSECURITY/mlruns/0/456287c3cb644dda930b6a3a4e7dbacb/artifacts
+end_time: 1755723006567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 456287c3cb644dda930b6a3a4e7dbacb
+run_name: rogue-jay-607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755722985666
+status: 3
+tags: []
+user_id: User

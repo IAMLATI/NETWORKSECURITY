@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/Desktop/ENDTOEND/ML_NETWORKSECURITY/mlruns/0/5056dfebbb6c4601bdf091cf14f88c64/artifacts
+end_time: 1755723018370
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5056dfebbb6c4601bdf091cf14f88c64
+run_name: aged-shrimp-527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755723006811
+status: 3
+tags: []
+user_id: User

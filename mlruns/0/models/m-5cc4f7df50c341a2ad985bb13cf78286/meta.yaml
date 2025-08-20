@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/User/Desktop/ENDTOEND/ML_NETWORKSECURITY/mlruns/0/models/m-5cc4f7df50c341a2ad985bb13cf78286/artifacts
+creation_timestamp: 1755722986206
+experiment_id: '0'
+last_updated_timestamp: 1755723006530
+model_id: m-5cc4f7df50c341a2ad985bb13cf78286
+model_type: null
+name: model
+source_run_id: 456287c3cb644dda930b6a3a4e7dbacb
+status: 2
+status_message: null
